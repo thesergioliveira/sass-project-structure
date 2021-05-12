@@ -101,7 +101,7 @@ Define your layout, how your webpage looks like
 1. Clone this repository into a new project folder (replace `[project name]` with your project's name)
 
    ```
-   git clone git@github.com:Fbw-48/sass-project-structure.git [project name]
+   git clone git@github.com:thesergioliveira/sass-project-structure.git [project name]
    ```
 
 1. Delete the boilerplate's git history to ensure that the project history only includes your commits
@@ -140,10 +140,11 @@ Define your layout, how your webpage looks like
    git init
    git add . && git commit -m "Initial commit"
    ```
+
 1. Install the dependencies
 
    ```
    npm install
    ```
 
-1. Happy coding ☘️ 
+1. Happy coding ☘️
